@@ -629,6 +629,13 @@
         "url": "https://github.com/coderabbitai/claude-plugin.git"
       },
       "homepage": "https://github.com/coderabbitai/claude-plugin.git"
+    },
+    {
+      "name": "sonatype-guide",
+      "description": "Sonatype Guide MCP server for software supply chain intelligence and dependency security. Analyze dependencies for vulnerabilities, get secure version recommendations, and check component quality metrics.",
+      "category": "security",
+      "source": "./external_plugins/sonatype-guide",
+      "homepage": "https://guide.sonatype.com"
     }
   ]
 }
